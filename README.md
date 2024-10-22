@@ -23,8 +23,11 @@ La forme obtenue est à transformer en mesh avant export en .STL et impression 3
 Par exemple sur mon prototype, j'ai choisi une barre de 5mm, un diametre de 200mm pour chaque voile, ce qui implique une hauteur de 193mm.
 
 Empilable verticalement : addition du couple de chaque voile.
+
 Redimmensionnable       : si vous disposez d'une grande imprimante.
+
 Modifiable              : fichier source disponible. (via Blender https://www.blender.org/ )
+
 Licence                 : This work is licensed under Creative Commons Attribution-NonCommercial 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/
 
 Please give some hits over here, ty : https://www.3DLibre.com
