@@ -25,7 +25,7 @@ Par exemple sur mon prototype, j'ai choisi une barre de 5mm, un diametre de 200m
 Empilable verticalement : addition du couple de chaque voile.
 Redimmensionnable       : si vous disposez d'une grande imprimante.
 Modifiable              : fichier source disponible. (via Blender https://www.blender.org/ )
-Licence                 :   CC0 1.0 Universal 2014-2024
+Licence                 : This work is licensed under Creative Commons Attribution-NonCommercial 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/
 
-https://www.3DLibre.com
+Please give some hits over here, ty : https://www.3DLibre.com
 Par Luis David Campos Venancio (aka Meta_4), Portugal.
