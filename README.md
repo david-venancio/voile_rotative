@@ -4,10 +4,13 @@ Voilure d'éolienne à axe vertical vectorielle.
 
 Version 0.01 "Pelton-like" : 
 
-Trois points de contrôle subissent une rotation autour de l'axe Z (tilt). 
-Modifiable sous Blender, le mesh est définit via deux courbes de bézier. 
+Z : une courbe de bezier composée de 3 points de contrôle, dont le point central subit une rotation autour de l'axe Z (propriété Tilt) de 75 degrés. 
+
+Modifiable sous Blender, le mesh est définit via deux courbes de bézier :
+
 . La première est verticale. 
 . La seconde représente la section. 
+
 
 La forme obtenue est à transformer en mesh avant export en .STL et impression 3D. 
 
