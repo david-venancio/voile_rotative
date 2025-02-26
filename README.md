@@ -10,9 +10,9 @@ Modifiable sous Blender, le mesh est définit via deux courbes de bézier :
 . La seconde représente la section. 
 
 
-Un allésage central doit être ajouté via une opération booléenne de type "différence" entre : le mesh de la voile (dupliquer puis convertir en mesh), et un cylindre du diamètre voulu (le pivot), placé au centre de la scène, possédant une hauteur suffisante pour dépasser de la voile (sur Z, attention a X et Y). 
+Un allésage central doit être ajouté via une opération booléenne de type "différence" entre : le mesh de la voile (dupliquer puis convertir en mesh), et un cylindre du diamètre voulu (le pivot), placé au centre de la scène, possédant une hauteur suffisante pour dépasser de la voile (sur Z, attention à X et Y). 
 
-Exemple : diametre du cylindre 5mm => voile redimenseionnée pour atteindre 20cm sur Z => créer un cylindre de 21cm de hauteur. 
+Exemple : diamètre du cylindre 5 mm => voile redimensionnée pour atteindre 20cm sur Z => créer un cylindre de 21cm de hauteur. 
 
 
 Exporter en .STL et imprimer en 3D. 
