@@ -1,7 +1,5 @@
 VOILE ROTATIVE 
 EOLIENNE A AXE VERTICAL
-VERTICAL WIND TURBINE
-
 
 Version 0.02 : 
 
@@ -28,5 +26,5 @@ Modifiable              : fichier source .blend disponible. (modifiable avec Ble
 
 Licence                 : This work is licensed under Creative Commons Attribution-NonCommercial 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/
 
-Please give some hits over here, ty : https://www.3DLibre.com
+Merci de visiter : https://www.3DLibre.com
 Par Luis David Campos Venancio (aka Meta_4), Portugal.
