@@ -20,7 +20,7 @@ Exporter en .STL et imprimer en 3D.
 
 Empilable verticalement : addition du couple de chaque voile.
 
-Redimmensionnable       : si vous disposez d'une grande imprimante ou souhaitez tester une miniature de 5 cm en 30 exemplaires...
+Redimensionnable       : si vous disposez d'une grande imprimante ou souhaitez tester une miniature de 5 cm en 30 exemplaires...
 
 Modifiable              : fichier source .blend disponible. (modifiable avec Blender https://www.blender.org/ )
 
