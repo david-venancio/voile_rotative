@@ -1,11 +1,9 @@
-VOILE ROTATIVE
+VOILE ROTATIVE 
+EOLIENNE A AXE VERTICAL
+VERTICAL WIND TURBINE
 
 
-
-Voilure d'éolienne à axe vertical vectorielle.
-
-
-Version 0.01 "Pelton-like" : 
+Version 0.02 : 
 
 Modifiable sous Blender, le mesh est définit via deux courbes de bézier :
 
@@ -14,19 +12,19 @@ Modifiable sous Blender, le mesh est définit via deux courbes de bézier :
 . La seconde représente la section. 
 
 
-Un allésage central doit être ajouté via une opération booléenne de type "différence" entre : le mesh de la voile, et un cylindre du diamètre voulu (la barre choisie), placé au centre de la scène, possédant une hauteur suffisante pour dépasser de la barre traversant verticallement cet objet (sur Z). 
+Un allésage central doit être ajouté via une opération booléenne de type "différence" entre : le mesh de la voile (dupliquer puis convertir en mesh), et un cylindre du diamètre voulu (le pivot), placé au centre de la scène, possédant une hauteur suffisante pour dépasser de la voile (sur Z, attention a X et Y). 
+
+Exemple : diametre du cylindre 5mm => voile redimenseionnée pour atteindre 20cm sur Z => créer un cylindre de 21cm de hauteur. 
 
 
-La forme obtenue est à transformer en mesh avant export en .STL et impression 3D. 
+Exporter en .STL et imprimer en 3D. 
 
-
-Par exemple sur mon prototype, j'ai choisi une barre de 5mm, un diametre de 200mm pour chaque voile, ce qui implique une hauteur de 193mm.
 
 Empilable verticalement : addition du couple de chaque voile.
 
 Redimmensionnable       : si vous disposez d'une grande imprimante.
 
-Modifiable              : fichier source disponible. (via Blender https://www.blender.org/ )
+Modifiable              : fichier source .blend disponible. (modifiable avec Blender https://www.blender.org/ )
 
 Licence                 : This work is licensed under Creative Commons Attribution-NonCommercial 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/
 
