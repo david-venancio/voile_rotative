@@ -1,6 +1,12 @@
 ___________      Voile Rotative     ___________
+
+
        (translation to english incoming)
+
+       
 ___________ EOLIENNE A AXE VERTICAL ___________
+
+
 
 Version 0.03 : Electric module almost complete (needs work on gear_output to fix a motor shaft with 2.5mm screws and nuts).
 
