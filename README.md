@@ -32,6 +32,9 @@ Export to .STL then 3D-print with the settings you like.
 
 
 Change log:
+
 0.01 : only the rotating sail is here
+
 0.02 : thicker version
+
 0.03 : Added all the rest... including the electric module (needs work on gears_0-01.output to fix a motor shaft with 2.5mm screws and nuts). Sorry about the dimensions/scale problem. Correcting it ASAP (but not fatal).
