@@ -1,5 +1,5 @@
 # Rotating Sail : Vertical Axis Wind-Turbine
-## By Luis David de Campos Venancio (aka Meta_4)
+## By Luis David de Campos Venancio
 Santiago-do-Cacem, Portugal. 2025-04. 
 
 
