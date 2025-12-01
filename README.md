@@ -1,8 +1,10 @@
-Rotating Sail : Vertical Axis Wind-Turbine
-By Luis David de Campos Venancio (aka Meta_4), 
+## Rotating Sail : Vertical Axis Wind-Turbine
+#By Luis David de Campos Venancio (aka Meta_4), 
 Santiago-do-Cacem, Portugal. 2025-04. 
-Version: Alpha 0.03
-https://www.3DLibre.com
+
+
+##Version: Alpha 0.03
+##https://www.3DLibre.com
 
 
 Licence: This work is licensed under Creative Commons Attribution-NonCommercial 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/
