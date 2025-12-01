@@ -13,6 +13,7 @@ __________________________________________
 
 Vertically stackable: you can put 3 rotating sails or more on the same axis = More TORQUE with low wind.
 
+![stackable x2 here](https://github.com/david-venancio/voile_rotative/blob/master/vr.JPG)
 
 Scalable: if you own a BigRep (or some other big 3D-printer), scale it as you like. Thought, at small scales you can make it thicker. And at bigger scales, it might need reinforcements.
 
@@ -25,8 +26,10 @@ The central control point has a tilt rotation angle of 75°.
 . The second bézier curve is the section of the rotating sail. Yes you can try other shapes, and see the result in real time with Blender. But then you have to try it in real conditions.
 
 To transform it to a 3D-printable mesh, you have to convert the sail with the menu "Object / Convert / Mesh" after duplicating it in order to keep a backup, as shown in the #1 screenshot.
+![#1 screenshot](https://github.com/david-venancio/voile_rotative/blob/master/screenshot_1_how_to_convert_to_mesh.png)
 
 To create the vertical axis hole, just add a vertical cylinder and use a boolean modifier on the sail as shown in the #2 screenshot.
+![#2 screenshot](https://github.com/david-venancio/voile_rotative/blob/master/screenshot_2_how_to_modify_with_a_boolean_difference.png)
 
 Export to .STL then 3D-print with the settings you like. 
 
